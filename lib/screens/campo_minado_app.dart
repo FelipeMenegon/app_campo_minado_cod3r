@@ -72,6 +72,7 @@ class _CampoMinadoAppState extends State<CampoMinadoApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: ResultadoWidget(
           venceu: _venceu,
