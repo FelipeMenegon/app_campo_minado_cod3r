@@ -20,7 +20,3 @@ Este é um aplicativo de **Campo Minado** desenvolvido em **Flutter**, como part
 ![image](https://github.com/user-attachments/assets/446fcb37-ed49-4769-9b65-842b11804b37)
 
 ![image](https://github.com/user-attachments/assets/513f4a24-48d8-4bc3-a20f-7d6e764c50a1)
-
-## Sobre o Projeto
-
-Este aplicativo foi desenvolvido como parte do aprendizado no curso da **Cod3r**, com o objetivo de reforçar conceitos de lógica de programação, manipulação de estados e desenvolvimento de interfaces dinâmicas em Flutter.
