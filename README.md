@@ -1,16 +1,26 @@
-# appcampominado
+# Campo Minado - Flutter
 
-A new Flutter project.
+Este é um aplicativo de **Campo Minado** desenvolvido em **Flutter**, como parte do curso da Cod3r. O projeto implementa a lógica do jogo clássico, onde o objetivo é abrir todos os campos sem revelar uma mina.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Abertura de Campos**: Permite abrir campos no tabuleiro, revelando se há minas ou áreas seguras.
+- **Marcação de Campos**: Possibilidade de marcar campos suspeitos para sinalizar potenciais minas.
+- **Lógica de Vizinhança**: Campos interagem com seus vizinhos para determinar áreas seguras.
+- **Reinício do Jogo**: Reseta o estado do tabuleiro para uma nova partida.
+- **Sorteio de Minas**: Bombas são posicionadas aleatoriamente a cada partida.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework usado para criar a interface do jogo.
+- **Dart**: Linguagem utilizada para desenvolver a lógica do jogo.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Captura de tela
+
+![image](https://github.com/user-attachments/assets/446fcb37-ed49-4769-9b65-842b11804b37)
+
+![image](https://github.com/user-attachments/assets/513f4a24-48d8-4bc3-a20f-7d6e764c50a1)
+
+## Sobre o Projeto
+
+Este aplicativo foi desenvolvido como parte do aprendizado no curso da **Cod3r**, com o objetivo de reforçar conceitos de lógica de programação, manipulação de estados e desenvolvimento de interfaces dinâmicas em Flutter.
